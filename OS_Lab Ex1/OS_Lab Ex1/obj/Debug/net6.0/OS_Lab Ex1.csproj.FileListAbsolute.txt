@@ -1,0 +1,14 @@
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\bin\Debug\net6.0\OS_Lab Ex1.exe
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\bin\Debug\net6.0\OS_Lab Ex1.deps.json
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\bin\Debug\net6.0\OS_Lab Ex1.runtimeconfig.json
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\bin\Debug\net6.0\OS_Lab Ex1.dll
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\bin\Debug\net6.0\OS_Lab Ex1.pdb
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\obj\Debug\net6.0\OS_Lab Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\obj\Debug\net6.0\OS_Lab Ex1.AssemblyInfoInputs.cache
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\obj\Debug\net6.0\OS_Lab Ex1.AssemblyInfo.cs
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\obj\Debug\net6.0\OS_Lab Ex1.csproj.CoreCompileInputs.cache
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\obj\Debug\net6.0\OS_Lab Ex1.dll
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\obj\Debug\net6.0\refint\OS_Lab Ex1.dll
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\obj\Debug\net6.0\OS_Lab Ex1.pdb
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\obj\Debug\net6.0\OS_Lab Ex1.genruntimeconfig.cache
+D:\Uni\OS Lab\OS_Lab Ex1\OS_Lab Ex1\obj\Debug\net6.0\ref\OS_Lab Ex1.dll
